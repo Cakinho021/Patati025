@@ -20,7 +20,7 @@
 
     </main>
     <footer>
-        <p>Projeto desenvolvido pela Alura, sem fins lucrativos.</p>
+        <p>Projeto desenvolvido pela Moromba, com fins de ganhar nota.</p>
     </footer>
 
   <main>
@@ -34,14 +34,14 @@
                 </div>
             </article>
 
-    <h3> Programação </h3>
+    <h3> Receita de bolo </h3>
 
     <div class="cartao_conteudo_pergunta">
-O que é Java Script?
+O que é um bolo?
 </div>
 
     <div class="cartao_conteudo_resposta">
-O Java Script é uma linguagem de programação.
+O Bolo e um bolo.
 </div>
 
     
@@ -49,10 +49,10 @@ O Java Script é uma linguagem de programação.
         <div class="cartao__conteudo">
                 <h3> Programação </h3>
                       <div class="cartao_conteudo_pergunta">
-                            O que é CSS?
+                            Varios bolos?
                         </div>                        
                        <div class="cartao_conteudo_resposta">
-                            O CSS é uma linguagem de estilização.
+                            O Bolo tem caldo de chocolate.
                          </div>
                         </div>
                             
